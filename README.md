@@ -1,0 +1,1 @@
+# compec-mail-signature-generator
